@@ -20,6 +20,11 @@ You will need the following things properly installed on your computer.
 * `gulp develop`
 * Visit your api at [http://localhost:3000](http://localhost:3000).
 
+### TODO
+* Add nodemon config production
+* Add morgan config production
+
+
 ## Further Reading / Useful Links
 
 * [express](http://expressjs.com//)
